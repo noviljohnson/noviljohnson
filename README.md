@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @noviljohnson
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning  Neural Networks
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I'm working on different datasets and bulding ML/DL models.
 - 📫 How to reach me ... noviljohnson9@gmail.com
 
 <!---
